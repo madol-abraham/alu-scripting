@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-a recursive function that queries the Reddit API and returns a list 
+2. Recurse it!
 """
 import requests
 
