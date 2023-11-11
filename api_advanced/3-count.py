@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" 3-count.py """
+"""
+recursive function that queries the reddit Api.
+"""
 import json
 import requests
 
